@@ -1,0 +1,19 @@
+.list {
+    padding-left: 50px;
+}
+
+.list__item {
+    margin: 15px 0;
+    list-style-type: disc;
+    list-style-image: none;
+
+}
+
+.list__header {
+    list-style-image: url(../images/monsteraleaf.png);
+    margin: 10px 0px;
+    padding: 15px;
+
+}
+
+
